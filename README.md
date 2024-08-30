@@ -7,7 +7,7 @@
 - 🤖 My current goal is to sharpen my programming skills and continue to explore and develop my love for software development.
 - 🏋️‍♀️ Besides coding, I'm an avid `sports` enthusiast, always eager to take on new challenges. If you need a `Padel` partner let me know!
 
-### 🎯 Goals
+## 🎯 Goals
 - **Short-Term:** Continue to progress in C and C++ concepts, as well as systems and networks.
 - **Long-Term:** Learn other programming languages and one day work in cybersecurity or AI.
 
@@ -15,7 +15,7 @@
 -  My user on Intra and Slack `nsimao-f`.
 - [Email](mailto:your.email@example.com)
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

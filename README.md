@@ -5,7 +5,7 @@
 - 📘 Currently immersed in the `42 Porto Common Core`, mastering the intricacies of C and C++.
 - 💻 Passionate about software development with a focus on building efficient and scalable solutions.
 - 🤖 My current goal is to sharpen my programming skills and continue to explore and develop my love for software development.
-- 🏋️‍♀️ Besides coding, I'm an avid `sports` enthusiast, always eager to take on new challenges. If you need a `Padel` partner let me know!
+- 🏋️‍♀️ Besides coding, I'm an avid `sports` enthusiast, always eager to take on new challenges. If you need a `Padel` 🎾 partner let me know!
 
 ## 🎯 Goals
 - **Short-Term:** Continue to progress in C and C++ concepts, as well as systems and networks.

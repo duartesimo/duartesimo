@@ -13,7 +13,7 @@
 
 ## How to Reach Me
 -  My user on Intra and Slack `nsimao-f`.
-- [Email](mailto:nsimao-f@student.42porto.co)`nsimao-f@student.42porto.co`
+- [Email](mailto:nsimao-f@student.42porto.com)`nsimao-f@student.42porto.com`
 
 ## 🛠️ Technologies & Tools
 - ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)

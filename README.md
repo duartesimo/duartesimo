@@ -1,7 +1,7 @@
 ## Hi there, I'm Duarte Simão 👋
 
 ## About Me
-- 🌍 Currently living in Porto, Portugal
+- 🌍 Living in Porto, Portugal
 - 📘 Currently immersed in the `42 Porto Common Core`, mastering the intricacies of C and C++.
 - 💻 Passionate about software development with a focus on building efficient and scalable solutions.
 - 🤖 My current goal is to sharpen my programming skills and continue to explore and develop my love for software development.

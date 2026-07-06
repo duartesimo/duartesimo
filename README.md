@@ -12,10 +12,10 @@
 I'm currently looking for junior developer opportunities in Spain, ideally in Valencia, hybrid or remote.
 
 I'm especially interested in:
-- Full-stack development
-- Backend development
+- Full-stack web development
 - Web applications
 - Software engineering
+- Cloud infrastructure and DevOps fundamentals
 - Scalable and maintainable systems
 
 
